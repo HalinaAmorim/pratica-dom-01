@@ -1,0 +1,3 @@
+O método createElement() cria dinamicamente um novo elemento HTML no documento.
+
+Ele precisa receber como argumento uma string com o nome da tag HTML que será criada.
