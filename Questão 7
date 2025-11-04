@@ -1,0 +1,3 @@
+O método addEventListener() permite associar funções de tratamento de eventos (chamadas event handlers) a elementos HTML.
+
+Ele precisa receber dois parâmetros principais: O tipo de evento (ex: "click", "submit", "keydown" etc.) e a função que será executada quando o evento ocorrer.

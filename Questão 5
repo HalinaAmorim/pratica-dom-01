@@ -1,0 +1,2 @@
+letra b — innerText retorna ou define apenas o texto visível ao usuário,
+enquanto innerHTML retorna ou define o conteúdo HTML do elemento, incluindo tags.

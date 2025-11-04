@@ -1,0 +1,5 @@
+O método utilizado foi:
+campoEntrada.classList.add("input-erro");
+
+O atributo classList representa uma lista de classes CSS aplicadas a um elemento do DOM.
+Ele permite adicionar, remover ou alternar classes de forma simples, sem precisar alterar diretamente o atributo class.
